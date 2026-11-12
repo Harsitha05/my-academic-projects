@@ -50,7 +50,7 @@ The dataset contains patient demographics, admission details, hospital utilizati
 - **Databricks Jobs:** Workflow automation
 - **Databricks AI/BI Dashboards:** Data visualization
 
-## ⚙️ Project Implementation – Five Stages
+## Project Implementation – Five Stages
 
 ### Stage 1: Bronze Layer – Data Ingestion
 
